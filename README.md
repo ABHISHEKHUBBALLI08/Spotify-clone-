@@ -1,5 +1,5 @@
-#reactjs-#javascript
-# ChatsApp - Real-Time Social Chat Application
+
+# ChatsApp - Real-Time Social Chat Application #reactjs-#javascript
 
 ChatsApp is a real-time, feature-rich social chat application built with React and ChatEngine, designed to provide users with seamless communication and a modern, responsive interface. This project replicates the smooth, user-friendly experience of popular chat applications, with a custom twist to the design.
 
