@@ -1,4 +1,4 @@
-# Spotify-clone-#reactjs-#javascript
+#reactjs-#javascript
 # ChatsApp - Real-Time Social Chat Application
 
 ChatsApp is a real-time, feature-rich social chat application built with React and ChatEngine, designed to provide users with seamless communication and a modern, responsive interface. This project replicates the smooth, user-friendly experience of popular chat applications, with a custom twist to the design.
