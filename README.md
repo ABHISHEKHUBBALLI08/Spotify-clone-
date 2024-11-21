@@ -47,18 +47,14 @@ The following packages are required to run this project:
 
 ReactJS: Core framework
 
-bash
-Copy code
+
 npm install react react-dom
 React Router DOM: For navigation
 
-bash
-Copy code
 npm install react-router-dom
 Styled Components: For custom styling
 
-bash
-Copy code
+
 npm install styled-components
 Optional Dependencies (if required):
 
@@ -68,24 +64,19 @@ framer-motion: For animations
 🚀 How to Run
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/ABHISHEKHUBBALLI08/Spotify-clone.git
 cd spotify-clone
 Install dependencies:
 
-bash
-Copy code
+
 npm install
 Start the development server:
 
-bash
-Copy code
 npm start
 Open the application in your browser:
 
-arduino
-Copy code
+
 http://localhost:3000
 🌈 Dynamic Display Logic
 The Display.js component dynamically changes the background color based on the album. Here's how it works:
@@ -93,7 +84,7 @@ The Display.js component dynamically changes the background color based on the a
 Code Snippet:
 
 jsx
-Copy code
+
 const bgColor = albumsData[Number(albumId)].bgColor;
 useEffect(() => {
   if (isAlbum) {
