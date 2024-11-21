@@ -5,6 +5,8 @@ A Spotify-inspired music streaming application built with ReactJS. This project 
 📂 Project Structure
 plaintext
 Copy code
+
+
 spotify-clone/
 ├── dist/                  # Build files (if applicable)
 ├── node_modules/          # Project dependencies
@@ -28,6 +30,8 @@ spotify-clone/
 │   ├── main.jsx           # Entry point for React
 ├── .gitignore             # Ignored files for Git
 ├── package.json           # Project metadata and dependencies
+
+
 ✨ Features
 Dynamic Album Rendering
 
